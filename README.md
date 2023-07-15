@@ -12,4 +12,5 @@ The scoring:
 
 • When the user guesses the correct answer or failed on all three attempts, the
 round is over.
+
 • When all 5 rounds complete, the score is shown to the user.
